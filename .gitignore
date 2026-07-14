@@ -1,0 +1,42 @@
+# Virtual Environment
+venv/
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/*.log
+
+# Testing
+.pytest_cache/
+.coverage
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Data Files
+data/raw/*.zip
+data/raw/*.tar
+data/raw/*.gz
+
+# Logs
+*.log
+
+# Temporary
+temp/
+tmp/
+
+# Python
+.python-version
