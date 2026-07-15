@@ -58,3 +58,25 @@ week10-brent-oil-analysis
 Project setup completed.
 
 Task 1 currently in progress.
+
+## Project Progress
+
+### Completed
+
+* Project setup
+* Repository configuration
+* Data loading
+* Data quality assessment
+* Exploratory Data Analysis
+* Time Series Analysis
+* Workflow documentation
+* Event dataset creation
+* Assumptions and limitations documentation
+
+### Upcoming
+
+* Bayesian Change Point Model
+* Event association analysis
+* Flask API
+* React dashboard
+* Final report

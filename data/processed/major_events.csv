@@ -1,0 +1,18 @@
+```csv
+Date,Event,Category
+1990-08-02,Iraq invades Kuwait,War
+1991-01-17,Gulf War begins,War
+1997-07-02,Asian Financial Crisis,Economic
+1998-12-01,OPEC production cuts,OPEC
+2001-09-11,September 11 attacks,Geopolitical
+2003-03-20,Iraq War begins,War
+2008-09-15,Global Financial Crisis,Economic
+2010-12-18,Arab Spring begins,Political
+2011-02-15,Libyan Civil War,War
+2014-11-27,OPEC maintains production,OPEC
+2016-11-30,OPEC production agreement,OPEC
+2018-11-05,US sanctions on Iran,Sanctions
+2020-03-11,COVID-19 Pandemic,Pandemic
+2020-04-12,Historic OPEC+ production cut,OPEC
+2022-02-24,Russia invades Ukraine,War
+```
